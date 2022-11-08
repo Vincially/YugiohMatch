@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Domain", "01 - Domain", "{C4BA68D5-E742-4D25-B1AF-06A3A5997795}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YugiohMatch.Domain", "YugiohMatch.Domain\YugiohMatch.Domain.csproj", "{D59F0846-2B98-4644-9238-226E4665DAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Test", "02 - Test", "{69080FFE-C468-4594-B2E4-355DFC384C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuGiOhMatch.Test", "YuGiOhMatch.Test\YuGiOhMatch.Test.csproj", "{79E39506-17DB-4B1A-ADDF-11492F1FECEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59F0846-2B98-4644-9238-226E4665DAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59F0846-2B98-4644-9238-226E4665DAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59F0846-2B98-4644-9238-226E4665DAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59F0846-2B98-4644-9238-226E4665DAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E39506-17DB-4B1A-ADDF-11492F1FECEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E39506-17DB-4B1A-ADDF-11492F1FECEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E39506-17DB-4B1A-ADDF-11492F1FECEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E39506-17DB-4B1A-ADDF-11492F1FECEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D59F0846-2B98-4644-9238-226E4665DAC7} = {C4BA68D5-E742-4D25-B1AF-06A3A5997795}
+		{79E39506-17DB-4B1A-ADDF-11492F1FECEE} = {69080FFE-C468-4594-B2E4-355DFC384C80}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA63428A-93E0-4E88-9CD9-C666E0E8BC83}
+	EndGlobalSection
+EndGlobal

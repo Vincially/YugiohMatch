@@ -1,0 +1,12 @@
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\bin\Debug\net6.0\YugiohMatch.Domain.deps.json
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\bin\Debug\net6.0\YugiohMatch.Domain.dll
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\bin\Debug\net6.0\YugiohMatch.Domain.pdb
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.AssemblyInfo.cs
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.dll
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\refint\YugiohMatch.Domain.dll
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\YugiohMatch.Domain.pdb
+C:\Users\vinic\Documents\Repos\YuGiOhMatch\YuGiOhMatch\YugiohMatch.Domain\obj\Debug\net6.0\ref\YugiohMatch.Domain.dll
